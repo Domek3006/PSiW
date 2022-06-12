@@ -1,2 +1,7 @@
 # PSiW
- PP (informatyka, sem. III)
+
+Politechnika Poznańska, Programowanie Systemowe i Współbieżne
+(informatyka, sem. III)
+
+Autor: Dominik Pawłowski
+
